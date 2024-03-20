@@ -17,9 +17,9 @@ Interactive Maps: Use interactive maps to discover attractions, lodgings, and ot
 
 Frontend: HTML, CSS, JavaScript
 
-Backend: Node.js, Express.js
+Backend: 
 
-Database: MongoDB
+Database: 
 
 Maps: Google Maps API
 
