@@ -3,7 +3,7 @@ Responsive tourist guide website
 
 Welcome to our tourism website! This project intends to inform users on prominent tourism sites, attractions, and activities throughout the world. Users may explore destinations, learn more about each one, and even plan their journeys using the integrated trip planner.
 
-#Features
+Features
 
 Destination Listings: View a list of prominent tourist locations.
 
@@ -13,7 +13,7 @@ journey Planner: Plan your journey by selecting places, adding them to your itin
 
 Interactive Maps: Use interactive maps to discover attractions, lodgings, and other information about your visit.
 
-#Technologies Used
+Technologies Used
 
 Frontend: HTML, CSS, JavaScript
 
