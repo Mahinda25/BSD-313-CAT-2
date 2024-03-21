@@ -23,8 +23,9 @@ header{
 	height: 65vh;
 	background-color: rgba(0,0,0,0.2);
 }
-section{
-	width: 80%;
+/*-- about content --*/
+.about-content{
+	width: 75%;
 	margin: 0 auto;
 }
 section .align-divs{
@@ -36,7 +37,7 @@ section .align-divs{
 	padding-right: 20px;
 }
 .align-divs #image-div{
-	width: 31%;
+	width: 42%;
 }
 .align-divs #image-div img{
 	width: 100%;

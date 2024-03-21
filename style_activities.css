@@ -13,8 +13,9 @@ header{
 	background-color: rgba(0,0,0,0.5);
 }
 .header-title{
-	top: 32%;
-	color: #fff;
+  top: 32%;
+  left: 26%;
+  color: #fff;
 }
 .lower_navbar{
 	width: 100%;
@@ -22,18 +23,34 @@ header{
 	color: #fff;
 	background-color: rgba(0,0,0,0.7);
 }
-/*////////////////Tabs///////////////////*/
+
+/*--activities content--*/
 h1 {
   color: #333;
   font-family: arial, sans-serif;
   margin: 1em auto;
   width: 85%;
 }
+.content-container  {
+  position: relative;
+  min-height: calc(137vh - 50px);
+  height: auto;
+  overflow-y: hidden;
+  margin: 0;
+  padding-bottom: 50px;
+}
 .tabordion-sec{
 	position: absolute;
+  height: auto;
+  max-height: calc(200vh - 150px);
+  overflow-y: auto;
+  top: o;
+  left: 0;
+  width: 100%;
+  z-index: 1;
 }
 .tabordion-img{
-	width: 100%;
+	width: 80%;
 }
 .tabordion h1{
 	font-family: Roboto;
@@ -48,7 +65,7 @@ h1 {
   display: block;
   font-family: arial, sans-serif;
   margin: auto;
-  height: 100vh;
+  height: auto;
   position: relative;
   width: 85%;
 }
@@ -59,6 +76,7 @@ h1 {
 
 .tabordion section {
   display: block;
+  margin-bottom: 20px;
 }
 
 .tabordion section label {
@@ -108,4 +126,8 @@ a{
 }
 a:hover{
   text-decoration: overline;
+}
+.footer {
+  position: relative;
+  clear: both;
 }
